@@ -1,2 +1,1 @@
-
-![alt-text]([giphy (2).gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BncTQ1NTQxZDlqd3ltMmdmNWJ3Y2Juejh2YzVuZDRoOTFka25zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4PJcvGn8O7fZS4zc6/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BncTQ1NTQxZDlqd3ltMmdmNWJ3Y2Juejh2YzVuZDRoOTFka25zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4PJcvGn8O7fZS4zc6/giphy.gif)
+![giphy (1)](https://github.com/Bahadir-Uysal/Rotating-Navigation/assets/149229956/0b957257-da75-4325-9eb7-d6e5a952eb5d)
