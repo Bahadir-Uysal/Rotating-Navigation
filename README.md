@@ -1,2 +1,2 @@
 
-![alt-text](giphy (2).gif)
+![alt-text](giphy.gif)
